@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3e2d99b8-2c94-43b5-a69f-0811b9c0edec" name="SiracoSharpening" url="http://www.siracosharpening.com/">
+        <fileTransfer accessType="SFTP" host="home162645937.1and1-data.host" port="22" sshConfigId="c3cee99d-42bd-4546-80b6-1897128ebcc6" sshConfig="u40372823-jack@home162645937.1and1-data.host:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
